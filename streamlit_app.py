@@ -30,7 +30,7 @@ st.latex(r'''
 import streamlit as st
 
 # Judul aplikasi
-st.title("Kalkulator Sederhana")
+st.title("📱Kalkulator Sederhana")
 
 # Input angka
 angka1 = st.number_input("Masukkan angka pertama", value=0.0)
